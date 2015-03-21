@@ -1,0 +1,27 @@
+{
+  "name":           "perf",
+  "version":        "0.0.1",
+  "description":    "nanømsg style performance benchmarks",
+  "repository": {
+    "type":         "git",
+    "url":          "https://github.com/reqshark/perf"
+  },
+  "dependencies":{
+    "nanomsg":      "~0.4.2"
+  },
+  "author": {
+    "name":         "Bent Cardan",
+    "email":        "bent@nothingsatisfies.com",
+    "url":          "http://req.link"
+  },
+  "license":        "martiniware",
+  "keywords": [
+                    "perf",
+                    "performance",
+                    "benchmarks",
+                    "nanomsg",
+                    "zeromq",
+                    "zmq",
+                    "nanømsg"
+  ]
+}

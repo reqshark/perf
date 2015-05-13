@@ -7,7 +7,7 @@
     "url":          "https://github.com/reqshark/perf"
   },
   "dependencies":{
-    "nanomsg":      "~0.4.2"
+    "nanomsg":      "~1.1.1"
   },
   "author": {
     "name":         "Bent Cardan",
